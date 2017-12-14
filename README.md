@@ -1,6 +1,6 @@
 # Redux Capsule
 
-Redux [middleware](https://redux.js.org/docs/advanced/Middleware.html) for encapsulation
+Redux [middleware](https://redux.js.org/docs/advanced/Middleware.html) for encapsulation.
 
 ## Motivation
 
@@ -25,7 +25,9 @@ export class CounterButton extends ReduxCapsule {
 }
 ```
 
-Now that a dispatcher become class-based, there's no need to be annoyed by the function design which always require `(dispatch, getState)` arguments.
+Now that a dispatcher has become class-based, there's no need to be annoyed by the design which requires many functions to have the pairs of `(dispatch, getState)`.
+
+Usage on react-redux is like below:
 
 ```js
 import React from 'react';
