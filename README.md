@@ -66,7 +66,7 @@ import { capsule } from 'redux-thunk';
 
 const store = createStore(
   _ => _,// rootReducer
-  applyMiddleware(thunk)
+  applyMiddleware(capsule)
 );
 ```
 
