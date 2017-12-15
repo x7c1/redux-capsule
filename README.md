@@ -1,6 +1,11 @@
 # Redux Capsule
 
-[![Build Status](https://travis-ci.org/x7c1/redux-capsule.svg?branch=master)](https://travis-ci.org/x7c1/redux-capsule)
+[![build status](https://img.shields.io/travis/x7c1/redux-capsule/master.svg?style=flat-square)](https://travis-ci.org/x7c1/redux-capsule) 
+[![npm](https://img.shields.io/npm/v/redux-capsule.svg?style=flat-square)](https://www.npmjs.com/package/redux-capsule)
+
+<!--
+[![npm downloads](https://img.shields.io/npm/dm/redux-capsule.svg?style=flat-square)](https://www.npmjs.com/package/redux-capsule)
+-->
 
 Redux [middleware](https://redux.js.org/docs/advanced/Middleware.html) for encapsulation.
 
