@@ -1,5 +1,7 @@
 # Redux Capsule
 
+[![Build Status](https://travis-ci.org/x7c1/redux-capsule.svg?branch=master)](https://travis-ci.org/x7c1/redux-capsule)
+
 Redux [middleware](https://redux.js.org/docs/advanced/Middleware.html) for encapsulation.
 
 ## Motivation
