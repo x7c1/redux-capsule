@@ -1,5 +1,10 @@
+
+
 # Dependency directories
 node_modules
 
 # files built by Babel
 lib
+
+# IntelliJ
+.idea
