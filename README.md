@@ -69,7 +69,7 @@ Then, call [applyMiddleware()](https://redux.js.org/docs/api/applyMiddleware.htm
 
 ```js
 import { createStore, applyMiddleware } from 'redux';
-import { capsule } from 'redux-thunk';
+import { capsule } from 'redux-capsule';
 
 const store = createStore(
   _ => _,// rootReducer
