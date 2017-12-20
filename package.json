@@ -1,7 +1,7 @@
 {
   "name": "redux-capsule",
   "description": "Redux middleware for encapsulation",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "x7c1",
   "bugs": {
     "url": "https://github.com/x7c1/redux-capsule/issues"
